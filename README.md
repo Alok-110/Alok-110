@@ -102,8 +102,8 @@ A competitive programming platform built from scratch. Real code execution in sa
 
 If you're building something interesting or need someone who can figure out the hard parts — reach out.
 
-**Email:** *(your email)*  
-**LinkedIn:** *(your LinkedIn URL)*
+**Email:** *alok.dash787@gmail.com*  
+**LinkedIn:** *https://www.linkedin.com/in/alokdash9/*
 
 ---
 
