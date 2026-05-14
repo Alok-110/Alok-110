@@ -1,59 +1,99 @@
-# Hey, I'm Alok 👋
+<div align="center">
 
-CS undergrad from Punjab, India. I build backend-heavy full-stack apps and care about systems that actually work under pressure — not just in tutorials.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Alok+%F0%9F%91%8B;Backend+dev+%7C+Systems+thinker;Building+real+infrastructure%2C+not+tutorials)](https://git.io/typing-svg)
 
-Currently building **CodeOrbit**, a competitive programming platform from scratch (think LeetCode, but I wanted to understand how it actually works under the hood — so I built one).
-
----
-
-## What I'm Working On
-
-### [CodeOrbit](https://github.com/Alok-110/CodeOrbit)
-A full-stack competitive programming platform with real code execution, problem management, and user auth.
-
-- **Frontend:** React + Vite + Tailwind CSS
-- **Backend:** Node.js + Express, JWT-based auth with HTTP-only cookies
-- **Infrastructure:** Redis for session caching, Judge0 for sandboxed code execution
-- The interesting part: wiring Judge0 to accept submissions, poll results, and handle failures gracefully — not just calling an API
+</div>
 
 ---
 
-## Other Projects
+```yaml
+name: Alok
+role: Backend Developer
+location: Punjab, India
+focus: Distributed systems, queues, real infrastructure
+currently_learning: [BullMQ, tRPC, advanced backend patterns]
+open_to: Remote internships · Freelance · Full-time
+```
 
-| Project | What it is | Stack |
+---
+
+### About
+
+CS undergrad who got tired of surface-level tutorials and started building actual systems. My thing is backend — understanding how data moves, how auth really works, how you handle load without things falling apart. Currently going deep on queues, distributed infra, and everything that makes production systems not break.
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,docker&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,ts,js&theme=dark)](https://skillicons.dev)
+
+**Tools & Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,git,linux,postman&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### What I'm Building
+
+**[CodeOrbit](https://github.com/Alok-110/CodeOrbit)**
+A competitive programming platform built from scratch. Real code execution in sandboxed environments, full auth with JWT and HTTP-only cookies, Redis for caching, Judge0 for running submissions. Built it because I wanted to understand how these systems actually work, not just use them.
+
+> Stack: Node.js · Express · React · Redis · Judge0 · PostgreSQL · JWT
+
+---
+
+### Projects
+
+| Project | Description | Stack |
 |---|---|---|
-| [serenity](https://github.com/Alok-110/serenity) | *(add 1-line description)* | TypeScript |
-| [scyth](https://github.com/Alok-110/scyth) | *(add 1-line description)* | TypeScript |
-| [ai-tutor-screener](https://github.com/Alok-110/ai-tutor-screener) | *(add 1-line description)* | JavaScript |
-| [bloom](https://github.com/Alok-110/bloom) | *(add 1-line description)* | TypeScript |
-| [DSA](https://github.com/Alok-110/DSA) | Problem-solving practice, mostly competitive programming | C++ |
-
-> **Note:** Fill in those one-liners above — they matter more than you think.
-
----
-
-## Tech Stack
-
-**Languages:** JavaScript, TypeScript, C++  
-**Frontend:** React, Vite, Tailwind CSS  
-**Backend:** Node.js, Express  
-**Databases & Caching:** Redis, PostgreSQL  
-**Auth:** JWT, HTTP-only cookies  
-**Tools:** Judge0, Git, Postman  
+| [CodeOrbit](https://github.com/Alok-110/CodeOrbit) | Competitive programming platform with real code execution | JS · Node · Redis · Judge0 |
+| [serenity](https://github.com/Alok-110/serenity) | *(add one line)* | TypeScript |
+| [scyth](https://github.com/Alok-110/scyth) | *(add one line)* | TypeScript |
+| [ai-tutor-screener](https://github.com/Alok-110/ai-tutor-screener) | *(add one line)* | JavaScript |
+| [bloom](https://github.com/Alok-110/bloom) | *(add one line)* | TypeScript |
+| [DSA](https://github.com/Alok-110/DSA) | Competitive programming practice | C++ |
 
 ---
 
-## I'm Open To
+### GitHub Stats
 
-Remote internships and freelance projects — backend or full-stack. If you need someone who can build something real and figure out the hard parts, let's talk.
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Alok-110&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-streak-stats.demolab.com?user=Alok-110&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="160"/>
 
-## Contact
-
-- **Email:** *(add your email)*
-- **LinkedIn:** *(add your LinkedIn)*
+</div>
 
 ---
 
-*Currently: building CodeOrbit and looking for paid remote opportunities.*
+### Currently
+
+- Going deep on **BullMQ** and job queues
+- Learning **tRPC** for end-to-end typesafe APIs
+- Building toward a production-ready CodeOrbit
+- Looking for a **remote backend / full-stack internship**
+
+---
+
+### Let's Talk
+
+If you're building something interesting or need someone who can figure out the hard parts — reach out.
+
+**Email:** *(your email)*  
+**LinkedIn:** *(your LinkedIn URL)*
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Alok-110&color=6366f1&style=flat-square&label=profile+views" />
+</div>
