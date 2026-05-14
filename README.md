@@ -56,12 +56,17 @@ A competitive programming platform built from scratch. Real code execution in sa
 
 | Project | Description | Stack |
 |---|---|---|
-| [CodeOrbit](https://github.com/Alok-110/CodeOrbit) | Competitive programming platform with real code execution | JS · Node · Redis · Judge0 |
-| [serenity](https://github.com/Alok-110/serenity) | *(add one line)* | TypeScript |
-| [scyth](https://github.com/Alok-110/scyth) | *(add one line)* | TypeScript |
-| [ai-tutor-screener](https://github.com/Alok-110/ai-tutor-screener) | *(add one line)* | JavaScript |
-| [bloom](https://github.com/Alok-110/bloom) | *(add one line)* | TypeScript |
-| [DSA](https://github.com/Alok-110/DSA) | Competitive programming practice | C++ |
+| [CodeOrbit](https://github.com/Alok-110/CodeOrbit) | Competitive programming platform with sandboxed code execution, JWT auth, and Redis caching | Node.js · React · Redis · Judge0 · PostgreSQL |
+| [scyth](https://github.com/Alok-110/scyth) | Sandboxed AI agent builder — think persistent context, tool use, and real execution environments. WIP, going deep on advanced patterns | TypeScript · tRPC |
+| [ai-tutor-screener](https://github.com/Alok-110/ai-tutor-screener) | AI-powered candidate screener built for a company assignment — automated tutor evaluation pipeline | JavaScript |
+| [Alertify](https://github.com/Alok-110/Alertify) | PagerDuty-style alerting system — learning ground for BullMQ, Redis queues, and real-time incident notification pipelines | TypeScript · BullMQ · Redis |
+
+**Learning repos**
+
+| Repo | What |
+|---|---|
+| [Low-level-design](https://github.com/Alok-110/Low-level-design) | LLD patterns — design principles, class diagrams, real-world system design in code |
+| [docker](https://github.com/Alok-110/docker) | Docker hands-on practice — containers, compose, networking, working toward prod-ready deployments |
 
 ---
 
@@ -70,8 +75,16 @@ A competitive programming platform built from scratch. Real code execution in sa
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Alok-110&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="160"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=Alok-110&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="160"/>
+<img src="https://streak-stats.demolab.com?user=Alok-110&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="160"/>
 
+</div>
+
+---
+
+### Contribution
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alok-110/Alok-110/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
